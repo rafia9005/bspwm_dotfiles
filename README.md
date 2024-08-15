@@ -1,3 +1,3 @@
 ## BSPWM SIMPLE DOTFILES
 
-
+arandr
